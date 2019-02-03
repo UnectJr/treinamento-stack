@@ -41,4 +41,8 @@ Além disso também faremos uma segunda tela, que servirá para como uma tela de
 - [React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) / [NodeJS](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
+---
 
+#### Grupo no WhatsApp para auxílio
+
+[WhatsApp](https://chat.whatsapp.com/KvMynXwOjSj2n7CYTysegq)
