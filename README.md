@@ -1,5 +1,4 @@
 # Treinamento Stack Unect Jr.
----
 
 ### Olá Unectianos, aos que aceitaram esse novo desafio de dar um passo a mais nesse vasto caminho do conhecimento, parabéns!! Nós garantimos que a linha de conhecimento será muito grande e cada um de vocês vai passar a se interesar mais pela stack da nossa empresa.
 ---
